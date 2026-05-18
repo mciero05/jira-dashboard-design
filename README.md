@@ -30,4 +30,4 @@ The dashboard is designed for different stakeholders, including managers and tea
 
 ## Visual Example
 
-![Dashboard Mock](dashboard-mock.png)
+![Dashboard Mock Example](dashboard-mock.png)
