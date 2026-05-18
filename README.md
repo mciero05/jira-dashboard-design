@@ -26,3 +26,8 @@ The dashboard is designed for different stakeholders, including managers and tea
 ├───────────────────────────────────────────┤
 │        Recent Team Activity               │
 └───────────────────────────────────────────┘
+
+
+## Visual Example
+
+dashboard-mock.png
