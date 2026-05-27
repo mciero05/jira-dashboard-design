@@ -39,7 +39,7 @@ This dashboard was built iteratively, incorporating stakeholder feedback to refi
 
 ## Visual Example
 
-![Dashboard Mock](dashboard-mock.png.PNG)
+![Dashboard Mock](dashboard-mock.png)
 
 ---
 
