@@ -35,7 +35,6 @@ This dashboard was built iteratively, incorporating stakeholder feedback to refi
 │   Created vs Resolved (Work Trends)       │
 └───────────────────────────────────────────┘
 
-
 ---
 
 ## Visual Example
